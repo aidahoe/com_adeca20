@@ -3,6 +3,7 @@
 	<name>com_adeca20</name>
 	<comment></comment>
 	<projects>
+		<project>Kitchen Sink</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
