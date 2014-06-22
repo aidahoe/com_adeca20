@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="welcome_message">Bienvenido a Adeca por SNT/</string>
+	<string name="user_agent_message">user agent set to</string>
+	<string name="format_test">Your name is %s</string>
+	<string name="base_ui_title">Ofertas</string>
+	<string name="controls_win_title">Nube Tags</string> 
+	<string name="phone_win_title">Categorias</string>
+	<string name="platform_win_title">Destacados</string>
+	<string name="mashups_win_title">Cupones</string>
+</resources>
